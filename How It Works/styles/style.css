@@ -1,0 +1,13 @@
+.jumbo-img {
+    width: 100%;
+    height: auto;
+}
+.jumbotron {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.space-top {
+    margin-top: 2%;
+}

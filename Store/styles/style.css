@@ -1,0 +1,12 @@
+.card img {
+    width: 50%;
+    height: auto;
+    align-self: center;
+    margin-top: 5%;
+}
+.collapse-control {
+    padding: 1rem;
+}
+.collapse-control button {
+    margin: .5rem;
+}

@@ -1,0 +1,36 @@
+
+.story-inner {
+    border: 10px ridge darkgray;
+    background: white;
+    padding: 1rem;
+}
+.story-outer {
+    padding: 5rem;
+}
+@media (max-width: 992px) {
+    .story-outer {
+        padding: 3rem;
+    }
+
+    .story-inner {
+        border: 8px ridge darkgray;
+    }
+}
+@media (max-width: 768px) {
+    .story-outer {
+        padding: 2rem;
+    }
+
+    .story-inner {
+        border: 6px ridge darkgray;
+    }
+}
+@media (max-width: 576px) {
+    .story-outer {
+        padding: 1rem;
+    }
+
+    .story-inner {
+        border: 4px ridge darkgray;
+    }
+}
